@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chiiken
+- 👀 I’m interested in sport
+- 🌱 I’m currently learning stm32c8T6
+- no one you will be if you don't step forward!
